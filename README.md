@@ -4,20 +4,50 @@
 
 This assignments task was to recreate some of the behaviors of the Dropbox app.
 
-Time spent: 6 hours in total
+Time spent: 16 hours in total
 
-Completed user stories:
+<b>Completed user stories:</b>
+<ul>
+<li>User can tap through the 3 welcome screens.</li>
+<li>User can follow the create user flow.
 
- - User can type the amount of bill and pick the percentage of tip to calculate the total amount.
- - User can divide the bill between people. The application allows division up to 5 people and highlights the amount supposed to be paid by each person with red bold font.
+<ul>
+<li>On the create user form, the user can tap the back button to go to the page where they can sign in or create an account.</li>
+<li>Before creating the account, user can choose to read the terms of service.</li>
+<li>After creating the account, user can view the placeholders for Files, Photos, and Favorites as well as the Settings screen.</li>
+<li>User can log out from the Settings screen.</li>
+</ul></li>
+<li>User can follow the sign in flow.
+
+<ul>
+<li>User can tap the area for "Having trouble signing in?"</li>
+<li>User can log out from the Settings screen.</li>
+</ul></li>
+<li>Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard. <a href="https://guides.codepath.com/ios/Registering-for-Keyboard-Events#step-6-move-uitextfield-back-when-keyboard-is-hidden">Dismissing the Keyboard</a></li>
+<ul>
+<li><b>(Personal additions)</b>: To be able to create account, all the textfields have to be filled and write a strong password (meaning more than 4 characters). To be able to sign in, all textfields have to be filled.</li>
+
+</ul>
+<li>Optional: You should be able to swipe through the welcome screens instead of just tapping them.
+<ul>
+<li>Create a custom free form view controller that is wide enough for 4 screens. <a href="https://guides.codepath.com/ios/Creating-Custom-View-Controllers">Creating Custom View Controllers</a>, <a href="https://guides.codepath.com/ios/Creating-a-Free-Form-View-Controller">Creating a Free Form View Controller</a></li>
+<li>Add a UIScrollView with paging enabled. </li>
+<li>Add 4 UIImageViews for the welcome screens.</li>
+</ul></li>
+</ul>
+
+<b>Still working on:<b>
+<ul>
+<li>Optional: Add a detail view for one of the files and implement favoriting the file. <a href="https://guides.codepath.com/ios/Configure-a-Button">Configure a Button</a></li>
+</ul>
  
  
 Notes:
 
-First created the application following the tutorial video. Later redesigned my version on Sketch and tried to create the same application with my visuals. Also added a "Per person" value to show how to divide the bill between people. I ran into multiple problems as I was trying to recreate my version and had to scale down after not being able to find a solution by myself. Updated with animations on the latest commit.
+Putting together the required tasks took less time compared to the time I spent trying to figure out how to implement few extras because I didn't want to use screenshots of UI. I tried to create the real functionality of parts of the flow, for example using UIAlertController.
 
 
 <b>Walkthrough of all user stories:</b>
 
 
-![Image of TipCalculator](http://imgur.com/pVjSpi3.gif)
+![Image of DropboxApp](http://imgur.com/WMwYa6j)
