@@ -46,4 +46,4 @@ Putting together the required tasks took less time compared to the time I spent 
 <b>Walkthrough of all user stories:</b>
 
 
-![Image of DropboxApp](http://imgur.com/WMwYa6j)
+![Image of Dropbox](http://imgur.com/WMwYa6j)
