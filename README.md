@@ -29,14 +29,10 @@ Time spent: 16 hours in total
 
 </ul>
 <li>Optional: You should be able to swipe through the welcome screens instead of just tapping them.
-<ul>
-<li>Create a custom free form view controller that is wide enough for 4 screens. <a href="https://guides.codepath.com/ios/Creating-Custom-View-Controllers">Creating Custom View Controllers</a>, <a href="https://guides.codepath.com/ios/Creating-a-Free-Form-View-Controller">Creating a Free Form View Controller</a></li>
-<li>Add a UIScrollView with paging enabled. </li>
-<li>Add 4 UIImageViews for the welcome screens.</li>
-</ul></li>
+</li>
 </ul>
 
-<b>Still working on:<b>
+<b>Still working on:</b>
 <ul>
 <li>Optional: Add a detail view for one of the files and implement favoriting the file. <a href="https://guides.codepath.com/ios/Configure-a-Button">Configure a Button</a></li>
 </ul>
