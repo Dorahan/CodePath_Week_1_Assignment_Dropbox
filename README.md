@@ -23,8 +23,8 @@ Time spent: 16 hours in total
 <li>User can tap the area for "Having trouble signing in?"</li>
 <li>User can log out from the Settings screen.</li>
 </ul></li>
+<li>Optional: Add a detail view for one of the files and implement favoriting the file. <a href="https://guides.codepath.com/ios/Configure-a-Button">Configure a Button</a></li>
 <li>Optional: Add UITextFields for the forms so you can actually type in them and handle dismissing the keyboard. <a href="https://guides.codepath.com/ios/Registering-for-Keyboard-Events#step-6-move-uitextfield-back-when-keyboard-is-hidden">Dismissing the Keyboard</a></li>
-<ul>
 <li><b>(Personal additions)</b>: To be able to create account, all the textfields have to be filled and write a strong password (meaning more than 4 characters). To be able to sign in, all textfields have to be filled.</li>
 
 </ul>
@@ -32,10 +32,6 @@ Time spent: 16 hours in total
 </li>
 </ul>
 
-<b>Still working on:</b>
-<ul>
-<li>Optional: Add a detail view for one of the files and implement favoriting the file. <a href="https://guides.codepath.com/ios/Configure-a-Button">Configure a Button</a></li>
-</ul>
  
  
 Notes:
@@ -47,3 +43,9 @@ Putting together the required tasks took less time compared to the time I spent 
 
 
 ![Image of Dropbox](http://imgur.com/WMwYa6j.gif)
+
+<b>Optional task: Favoriting a file</b>
+
+![Image of Dropbox_additional](http://imgur.com/6N1LgJE.gif)
+
+
